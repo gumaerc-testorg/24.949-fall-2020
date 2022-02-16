@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b1f4e210-4ec6-7cfd-a90c-ecb72e4904f9
 ---
@@ -44,7 +47,7 @@ Luigi Rizzi (1993). ["Some Notes on Linguistic Theory and Language Development: 
 
 Rushen Shi (2014). ["Functional Morphemes and Early Language Acquisition."](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12052) _Child Development Perspectives_ 8(1): 6–11.
 
-Rushen Shi, Emeryse Emond, and Sophia Badri (2020). ["Hierarchical Structure Dependence in Infants at the Early Stage of Syntactic Acquisition" (PDF)](http://www.lingref.com/bucld/44/BUCLD44-46.pdf) in Megan M. Brown and Alexandra Kohut (eds.), _Proceedings of the 44th Boston University Conference on Language Development_, 572–585. Cascadilla Press. ISBN: 9781574730579.
+Rushen Shi, Emeryse Emond, and Sophia Badri (2020). ["Hierarchical Structure Dependence in Infants at the Early Stage of Syntactic Acquisition" (PDF)](http://www.lingref.com/bucld/44/BUCLD44-46.pdf) in Megan M. Brown and Alexandra Kohut (eds.), _Proceedings of the 44{{< sup "th" >}} Boston University Conference on Language Development_, 572–585. Cascadilla Press. ISBN: 9781574730579.
 
 Rushen Shi, Camille Legrand, and Anna Brandenberger (2020). ["Toddlers Track Hierarchical Structure Dependence."](https://www.tandfonline.com/doi/abs/10.1080/10489223.2020.1776010?journalCode=hlac20) _Language Acquisition_ 27(4): 397–409.
 
@@ -69,7 +72,7 @@ David Poeppel and Ken Wexler (1993). ["The Full Competence Hypothesis of Clause 
 
 Carson T. Schütze (1997). ["INFL in Child and Adult Language: Agreement, Case, and Licensing" (PDF - 1.1 MB)](https://linguistics.ucla.edu/people/cschutze/Dissert.pdf). Ph.D. dissertation, Massachusetts Institute of Technology.
 
-Carson T. Schütze and Ken Wexler (1996). ["Subject Case Licensing and English Root Infinitives" (PDF)](https://linguistics.ucla.edu/people/cschutze/BU20.pdf) in Andy Stringfellow et al. (eds.), _Proceedings of the 20th Annual Boston University Conference on Language Development_, 670–681. Cascadilla Press. ISBN: 9781574731125.
+Carson T. Schütze and Ken Wexler (1996). ["Subject Case Licensing and English Root Infinitives" (PDF)](https://linguistics.ucla.edu/people/cschutze/BU20.pdf) in Andy Stringfellow et al. (eds.), _Proceedings of the 20{{< sup "th" >}} Annual Boston University Conference on Language Development_, 670–681. Cascadilla Press. ISBN: 9781574731125.
 
 Class 6: Passives
 -----------------
