@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section presents basic information about the course policies and
+  the schedule of topics for 24.949 Language Acquisition I.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: dc5d7145-1890-f4fa-63bf-484bc0e61c92
 ---
@@ -14,10 +18,10 @@ Prerequisites
 
 All four of the following:
 
-*   [24.951 Introduction to Syntax](/courses/24-951-introduction-to-syntax-fall-2003/)
-*   [24.952 Advanced Syntax](/courses/24-952-advanced-syntax-spring-2007/)
+*   [24.951 Introduction to Syntax](/courses/24-951-introduction-to-syntax-fall-2003)
+*   [24.952 Advanced Syntax](/courses/24-952-advanced-syntax-spring-2007)
 *   24.970 Introduction to Semantics
-*   [24.973 Advanced Semantics](/courses/24-973-advanced-semantics-spring-2009/)
+*   [24.973 Advanced Semantics](/courses/24-973-advanced-semantics-spring-2009)
 
 Course Description
 ------------------
@@ -33,7 +37,7 @@ The requirements for participation in this course are that:
 *   You participate in discussion;
 *   You send me a response (one page maximum) to readings for the coming class by Sunday evening at 6 pm.
 
-If you are taking the course for credit, you must, in addition, develop an acquisition-related research topic of your own interest. See the [Assignments]({{< baseurl >}}/pages/assignments) page for more details.
+If you are taking the course for credit, you must, in addition, develop an acquisition-related research topic of your own interest. See the {{% resource_link c6952a87-61ce-963f-c294-69f46f9ba911 "Assignments" %}} page for more details.
 
 Schedule of Topics
 ------------------

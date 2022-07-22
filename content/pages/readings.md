@@ -1,27 +1,29 @@
 ---
 content_type: page
+description: This section lists the assigned readings for 24.949 Language Acquisition
+  I.
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b1f4e210-4ec6-7cfd-a90c-ecb72e4904f9
 ---
-
-Class 1: Foundations
---------------------
+## Class 1: Foundations
 
 Fred C. Dyer and Jeffrey A. Dickinson (1996). ["Sun-Compass Learning in Insects: Representation in a Simple Mind."](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.ep10772759) _Current Directions in Psychological Science_ 5(3): 67–72.
 
-Class 2: Words
---------------
+## Class 2: Words
 
 Athulya Aravind, Jill de Villiers, Amy Pace, Hannah Valentine, Roberta Golinkoff, Kathy Hirsh-Pasek, Aquiles Iglesias, and Mary Sweig Wilson (2018). ["Fast Mapping Word Meanings across Trials: Young Children Forget All but Their First Guess."](https://pubmed.ncbi.nlm.nih.gov/29704856/) _Cognition_ 177: 177–188.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262523295) Paul Bloom (2000). "Chapter 1: First Words" in _How Children Learn the Meanings of Words,_ 1–24. The MIT Press. ISBN: 9780262523295.
+![Buy at MIT Press](/images/mp_logo.gif) Paul Bloom (2000). "Chapter 1: First Words" in _How Children Learn the Meanings of Words,_ 1–24. The MIT Press. ISBN: 9780262523295.
 
 Jane Gillette, Henry Gleitman, Lila Gleitman, and Anne Lederer (1998). ["Human Simulations of Vocabulary Learning."](https://repository.upenn.edu/ircs_reports/71/) _IRCS Technical Reports Series_ 71.
 
 Lila Gleitman (1989). ["The Structural Sources of Verb Meaning."](https://eric.ed.gov/?id=ED335884) _Papers and Reports on Child Language Development_ 28: 1–48.
 
-Class 3: Syntactic Bootstrapping
---------------------------------
+## Class 3: Syntactic Bootstrapping
 
 Cynthia Fisher (1996). ["Structural Limits on Verb Mapping: The Role of Analogy in Children’s Interpretations of Sentences."](https://www.sciencedirect.com/science/article/pii/S0010028596900122?via%3Dihub) _Cognitive Psychology_ 31: 41–81.
 
@@ -37,14 +39,13 @@ Rushen Shi and Andréane Melançon (2010). ["Syntactic Categorization in French-
 
 Sylvia Yuan and Cynthia Fisher (2009). ["'Really? She Blicked the Baby?': Two-Year-Olds Learn Combinatorial Facts about Verbs by Listening."](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3989287/) _Psychological Science_ 20(5): 619–626.
 
-Class 4: Early Syntax
----------------------
+## Class 4: Early Syntax
 
 Luigi Rizzi (1993). ["Some Notes on Linguistic Theory and Language Development: The Case of Root Infinitives."](https://www.tandfonline.com/doi/abs/10.1207/s15327817la0304_2) _Language Acquisition_ 3(4): 371–393.
 
 Rushen Shi (2014). ["Functional Morphemes and Early Language Acquisition."](https://srcd.onlinelibrary.wiley.com/doi/full/10.1111/cdep.12052) _Child Development Perspectives_ 8(1): 6–11.
 
-Rushen Shi, Emeryse Emond, and Sophia Badri (2020). ["Hierarchical Structure Dependence in Infants at the Early Stage of Syntactic Acquisition" (PDF)](http://www.lingref.com/bucld/44/BUCLD44-46.pdf) in Megan M. Brown and Alexandra Kohut (eds.), _Proceedings of the 44th Boston University Conference on Language Development_, 572–585. Cascadilla Press. ISBN: 9781574730579.
+Rushen Shi, Emeryse Emond, and Sophia Badri (2020). ["Hierarchical Structure Dependence in Infants at the Early Stage of Syntactic Acquisition" (PDF)](http://www.lingref.com/bucld/44/BUCLD44-46.pdf) in Megan M. Brown and Alexandra Kohut (eds.), _Proceedings of the 44_{{< sup "th" >}} _Boston University Conference on Language Development_, 572–585. Cascadilla Press. ISBN: 9781574730579.
 
 Rushen Shi, Camille Legrand, and Anna Brandenberger (2020). ["Toddlers Track Hierarchical Structure Dependence."](https://www.tandfonline.com/doi/abs/10.1080/10489223.2020.1776010?journalCode=hlac20) _Language Acquisition_ 27(4): 397–409.
 
@@ -54,8 +55,7 @@ Ken Wexler (1998). ["Very Early Parameter Setting and the Unique Checking Const
 
 ———— (2011). ["Grammatical Computation in the Optional Infinitive Stage"](https://link.springer.com/chapter/10.1007/978-94-007-1688-9_3) in Jill de Villiers and Tom Roeper (eds.), _Handbook of Generative Approaches to Language Acquisition_ (_Studies in Theoretical Psycholinguistics_ 41). Springer. ISBN: 9789400716896.
 
-Class 5: Root Infinitives
--------------------------
+## Class 5: Root Infinitives
 
 Rose-Marie Déchaine (1991). ["Bare Sentences."](https://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/3239) _Proceedings of SALT_ 1: 31–50.
 
@@ -69,10 +69,9 @@ David Poeppel and Ken Wexler (1993). ["The Full Competence Hypothesis of Clause 
 
 Carson T. Schütze (1997). ["INFL in Child and Adult Language: Agreement, Case, and Licensing" (PDF - 1.1 MB)](https://linguistics.ucla.edu/people/cschutze/Dissert.pdf). Ph.D. dissertation, Massachusetts Institute of Technology.
 
-Carson T. Schütze and Ken Wexler (1996). ["Subject Case Licensing and English Root Infinitives" (PDF)](https://linguistics.ucla.edu/people/cschutze/BU20.pdf) in Andy Stringfellow et al. (eds.), _Proceedings of the 20th Annual Boston University Conference on Language Development_, 670–681. Cascadilla Press. ISBN: 9781574731125.
+Carson T. Schütze and Ken Wexler (1996). ["Subject Case Licensing and English Root Infinitives" (PDF)](https://linguistics.ucla.edu/people/cschutze/BU20.pdf) in Andy Stringfellow et al. (eds.), _Proceedings of the 20_{{< sup "th" >}} _Annual Boston University Conference on Language Development_, 670–681. Cascadilla Press. ISBN: 9781574731125.
 
-Class 6: Passives
------------------
+## Class 6: Passives
 
 Hagit Borer and Ken Wexler (1987). ["The Maturation of Syntax"](https://link.springer.com/chapter/10.1007/978-94-009-3727-7_6) in Tom Roeper and Edwin Williams (eds.), _Parameter Setting_, 123–172. 
 
@@ -94,8 +93,7 @@ Katherine Messenger, Holly P. Branigan, Janet F. McLean, and Antonella Sorace (
 
 Alexander Williams (2015). "Chapter 12: Passives" in _Arguments in Syntax and Semantics,_ 273–306. Cambridge University Press. ISBN: 9780521151726.
 
-Class 7: Unaccusatives
-----------------------
+## Class 7: Unaccusatives
 
 Maria Babyonyshev, Jennifer Ganger, David Pesetsky, and Ken Wexler (2001). ["The Maturation of Grammatical Principles: Evidence from Russian Unaccusatives."](https://www.jstor.org/stable/4179136?seq=1#metadata_info_tab_contents) _Linguistic Inquiry_ 32(1): 1–44.
 
@@ -103,14 +101,13 @@ Na'ama Friedmann (2007). ["Young Children and A-Chains: The Acquisition of Hebre
 
 Loes Koring, Pim Mak, and Eric Reuland (2012). ["The Time Course of Argument Reactivation Revealed: Using the Visual World Paradigm."](https://www.sciencedirect.com/science/article/pii/S0010027712000376) _Cognition_ 123: 361–379.
 
-Class 8: _Wh_\-Movement
------------------------
+## Class 8: _Wh_\-Movement
 
 Ben Ambridge and Caroline F. Rowland (2009). ["Predicting Children’s Errors with Negative Questions: Testing a Schema-Combination Account."](https://www.degruyter.com/document/doi/10.1515/COGL.2009.014/html) _Cognitive Linguistics_ 20(2): 225–266.
 
-Ben Ambridge, Caroline F. Rowland, Anna L. Theakston, and Michael Tomasello (2006). ["Comparing Different Accounts of Inversion Errors in Children’s Non-subject W_h_\-Questions: 'What Experimental Data Can Tell Us?'"](https://pubmed.ncbi.nlm.nih.gov/17017278/) _Journal of Child Language_ 33(3): 519–57.
+Ben Ambridge, Caroline F. Rowland, Anna L. Theakston, and Michael Tomasello (2006). ["Comparing Different Accounts of Inversion Errors in Children’s Non-subject _Wh_\-Questions: 'What Experimental Data Can Tell Us?'"](https://pubmed.ncbi.nlm.nih.gov/17017278/) _Journal of Child Language_ 33(3): 519–57.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262529389) Maria Teresa Guasti (2017). "Chapter 6: Acquisition of _Wh_\-Movement" in _Language Acquisition: The Growth of Grammar_. MIT Press. ISBN: 9780262529389.
+![Buy at MIT Press](/images/mp_logo.gif) Maria Teresa Guasti (2017). "Chapter 6: Acquisition of _Wh_\-Movement" in _Language Acquisition: The Growth of Grammar_. MIT Press. ISBN: 9780262529389.
 
 C. Jane Lutken, Géraldine Legendre, and Akira Omaki (2020). ["Syntactic Creativity Errors in Children’s _Wh_\-Questions."](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12849) _Cognitive Science_ 44: e12849. 
 
@@ -128,8 +125,7 @@ Jill de Villiers (1993). ["Empty Categories and Complex Sentences: The Case of _
 
 Jill de Villiers, Tom Roeper, and Anne Vainikka (1990). ["The Acquisition of Long-Distance Rules"](https://link.springer.com/chapter/10.1007/978-94-011-3808-6_10) in Lyn Frazier and Jill de Villiers (eds.), _Language Processing and Language Acquisition_, 257–297. Kluwer. ISBN: 9780792306597.
 
-Class 9: Quantifiers
---------------------
+## Class 9: Quantifiers
 
 Athulya Aravind, Jill de Villiers, Peter de Villiers, Christopher J. Lonigan, Beth M. Phillips, Jeanine Clancy, Susan H. Landry, Paul R. Swank, Michael Assel, Heather B. Taylor, Nancy Eisenberg, Tracy Spinrad, and Carlos Valiente (2017). ["Children’s Quantification with _Every_ over Time."](https://www.glossa-journal.org/article/id/4905/) _Glossa_ 2(1): 43.
 
@@ -145,8 +141,7 @@ Ayaka Sugawara, Hadas Kotek, Martin Hackl, and Ken Wexler (2013). ["Long vs. Sho
 
 Kristen Syrett and Jeffrey Lidz (2009). ["QR in Child Grammar: Evidence from Antecedent-Contained Deletion."](https://www.tandfonline.com/doi/abs/10.1080/10489220902769226) _Language Acquisition_ 6(2): 67–81.
 
-Class 10: Numerals
-------------------
+## Class 10: Numerals
 
 Lisa Bylinina and Rick Nouwen (2020). ["Numeral Semantics."](https://onlinelibrary.wiley.com/doi/full/10.1111/lnc3.12390) _Language and Linguistics Compass_ 14(8): e12390.
 
